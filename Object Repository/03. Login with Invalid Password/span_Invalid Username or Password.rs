@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Invalid Username or Password</name>
+   <tag></tag>
+   <elementGuidId>96621077-86f8-4e23-9890-30723aa42e37</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.form__form-group-error</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/div/div/div/div[2]/form/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4b86aca7-12dc-4782-9893-29933f770e6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form__form-group-error</value>
+      <webElementGuid>8842f779-7111-4354-8397-034f55a9efa3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Invalid Username or Password!</value>
+      <webElementGuid>9db6d34a-ec10-4713-979c-3e9b2593a298</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;theme-light&quot;]/div[@class=&quot;wrapper top-navigation&quot;]/div[@class=&quot;account&quot;]/div[@class=&quot;account__wrapper&quot;]/div[@class=&quot;account__card&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-md-4 col-lg-4 col-xl-4&quot;]/form[@class=&quot;form login-form&quot;]/div[@class=&quot;form__form-group&quot;]/span[@class=&quot;form__form-group-error&quot;]</value>
+      <webElementGuid>a06c83aa-1273-4e64-89ef-be7d093164aa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div/div/div/div[2]/form/div/span</value>
+      <webElementGuid>5ac2059a-349f-4f47-8143-4a6141e020e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Development Version'])[1]/preceding::span[1]</value>
+      <webElementGuid>969fbb14-a5c8-413e-a0e6-f99557711c99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/preceding::span[1]</value>
+      <webElementGuid>f7c20fc2-4ca5-4ff4-958c-df47ff151005</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Invalid Username or Password!']/parent::*</value>
+      <webElementGuid>d21ba787-6e52-4f69-93f2-5ee0e2185aea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>ad450443-edf0-4810-9d0e-d6e4b2748ab3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Invalid Username or Password!' or . = 'Invalid Username or Password!')]</value>
+      <webElementGuid>c4d06f08-8c4d-45e3-8b29-407098998b97</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Username and password not registered</name>
+   <tag></tag>
+   <elementGuidId>ae5908f1-f42f-47c3-bca6-45ad7b769de8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.form__form-group-error</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/div/div/div/div[2]/form/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>97278ef9-6516-4f24-8907-7bcee81e19f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form__form-group-error</value>
+      <webElementGuid>0128327f-b423-4945-adf4-78e40c62c7ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Username and password not registered!</value>
+      <webElementGuid>e7b89d19-6f6d-401b-a57b-1104f928769c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;theme-light&quot;]/div[@class=&quot;wrapper top-navigation&quot;]/div[@class=&quot;account&quot;]/div[@class=&quot;account__wrapper&quot;]/div[@class=&quot;account__card&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-md-4 col-lg-4 col-xl-4&quot;]/form[@class=&quot;form login-form&quot;]/div[@class=&quot;form__form-group&quot;]/span[@class=&quot;form__form-group-error&quot;]</value>
+      <webElementGuid>263e9658-94bb-4794-bde1-d57c1bc55869</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div/div/div/div[2]/form/div/span</value>
+      <webElementGuid>c43feaeb-7df1-4de7-96ba-2385e1fd0c9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Development Version'])[1]/preceding::span[1]</value>
+      <webElementGuid>b417fc5a-d497-48c9-a5e9-bd0fe587b7a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/preceding::span[1]</value>
+      <webElementGuid>e86c70be-4af7-4d32-9555-bfed673d9b47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Username and password not registered!']/parent::*</value>
+      <webElementGuid>1b24ca68-3ac4-4edb-b19a-68a238d791c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>16c5c56b-aea1-46bb-bc0e-92686e6e023d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Username and password not registered!' or . = 'Username and password not registered!')]</value>
+      <webElementGuid>05db5e1c-eb97-4bea-99f9-ed49fda98461</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
